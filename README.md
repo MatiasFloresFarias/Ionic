@@ -5,12 +5,13 @@ Desarrollo de ejemplos de interfaces de Ionic framework para IOS y Android.
 ##Comandos de interes 
 
 * ionic start: Crea un proyecto ionic- luego selecciona el tipo de proyecto y en lenguaje que se utilizara 
-
+* ionic cordova platform add ios o en su defecto android 
 
 ### IONIC
 
 * ionic g tipoACrear: Crea un nuevo modulo, pagina, componente , clase entre otros. 
 * ionic g page pages/nombre --spec=false; 
+
 
 
 ### Angular 
